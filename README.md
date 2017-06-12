@@ -1,2 +1,7 @@
 # MDFilesCheckUtils
-MDFilesCheckUtils
+
+MDFilesCheckUtils文件夹为低检工具项目源码
+
+MDFilesCheckUtils.jar文件为项目打包好的可执行jar包
+
+其余word文件为工具使用相关说明文档
